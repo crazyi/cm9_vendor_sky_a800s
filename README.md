@@ -1,2 +1,2 @@
-android_vendor_pantech_a800s
+cm9_vendor_pantech_a800s
 ============================
